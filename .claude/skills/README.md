@@ -33,9 +33,12 @@ interactiva.
 bash .claude/sync-skills.sh
 ```
 
-Vuelve a clonar los 5 repos y regenera este directorio desde upstream. Es
-destructivo sobre `.claude/skills/`: no edites las skills aquí, los cambios se
-perderían.
+Vuelve a clonar los 5 repos y regenera las skills desde upstream. Es destructivo
+sobre las skills que gestiona: no las edites aquí, los cambios se perderían.
+
+Qué borra y qué respeta lo decide `.claude/synced-skills.txt`, el manifiesto de
+los 159 directorios que el script instala. Las skills propias del repo que no
+estén en esa lista —hoy `public-apis`— no se tocan.
 
 ## Coste en contexto
 

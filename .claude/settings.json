@@ -1,4 +1,9 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash(python3 .claude/skills/public-apis/scripts/search.py:*)"
+    ]
+  },
   "enabledPlugins": {
     "headroom@headroom-marketplace": true
   },
