@@ -1,0 +1,3 @@
+[submodule "tools/openmontage"]
+	path = tools/openmontage
+	url = https://github.com/drraulferrer/OpenMontage.git
