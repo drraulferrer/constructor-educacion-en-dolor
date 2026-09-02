@@ -78,6 +78,7 @@ Estas reglas están operativas en el constructor y se asumen como parte del PMD:
 | [05-app-flow](05-app-flow.md) | Flujos de usuario y de datos, con diagramas |
 | [06-esquema-backend](06-esquema-backend.md) | Modelo de datos completo y pipeline de publicación |
 | [07-plan-implementacion](07-plan-implementacion.md) | Fases, hitos y criterios de cierre |
+| [08-flujo-edicion-contenido](08-flujo-edicion-contenido.md) | Submódulo OpenMontage: producción de vídeo derivado del corpus |
 
 ## 6. Acciones derivadas del cruce
 
